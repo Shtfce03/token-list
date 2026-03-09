@@ -1,0 +1,11 @@
+
+ "chainId": 101,
+  "address": "6oRYWgJL4ZG88yPefqtE7GUD6ZPKs3HvtkN4SFYf1KjP",
+  "symbol": "UC",
+  "name": "Upcoin",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/guTtYmC.png",
+  "tags": ["meme-token"],
+  "extensions": {
+    "website": "https://yourwebsite.com",
+    "twitter": "https://twitter.com/YourCoin
